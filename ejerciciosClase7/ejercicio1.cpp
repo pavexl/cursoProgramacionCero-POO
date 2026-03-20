@@ -36,13 +36,13 @@ using namespace std;
 
 int main()
 {
-    // Declaramos un arreglo de 5 enteros para guardas las notas
+    //============================ Declaramos un arreglo de 5 enteros para guardas las notas =====================
     int notas[5];
 
     // Declaro la variable que usaremos para recorre el arreglo
     int i;
     
-    //CARGA DE DATOS 
+    //=============================== CARGA DE DATOS ====================================
 
     // Recorremos las 5 posiciones del arreglo
     for (i = 0; i < 5; i++)
@@ -57,7 +57,7 @@ int main()
     cout << endl;
     cout << "Notas registradas: " << endl;
 
-    // IMPRESION DE DATOS
+    //================================== IMPRESION DE DATOS ========================================
 
     // Volvemos a recorrer el arreglo para mostrar lo que guardamos
     for (i = 0; i < 5; i++)
