@@ -50,5 +50,11 @@ int main()
         cout << "Reprueba" << endl;
     }
 
+    if (n1 < 0 || n2 < 0 || n3 < 0 || n4 < 0)
+    {
+        cout << "Error: Las notas no pueden ser negativas." << endl;
+    }
+    
+
     return 0;
 }
