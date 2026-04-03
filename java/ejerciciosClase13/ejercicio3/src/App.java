@@ -7,9 +7,6 @@ Enunciado:
     La clase debe tener un constructor, un metodo para mostrar informacion
     Y tambien un metodo para calcular el valor total del inventario
 
-
-
-
 */
 
 public class App {

@@ -5,6 +5,7 @@ public class Producto {
     double precio;
     int stock;
 
+    //CONSTRUCTOR
 
     public Producto(String nombre, double precio, int stock) { // Constructor para crear el objeto con valores iniciales
 
