@@ -12,5 +12,5 @@ public class App {
         m2.mostrarInfo();
     }
         
-    }
 }
+
