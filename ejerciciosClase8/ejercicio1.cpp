@@ -138,3 +138,5 @@ void mostrarResultados(int suma, double promedio){ //Es void porque solo realiza
     cout << "La suma de los 4 numeros es: " << suma << endl;
     cout << "El promedio de los 4 numeros es: " << promedio << endl;
 }
+
+
